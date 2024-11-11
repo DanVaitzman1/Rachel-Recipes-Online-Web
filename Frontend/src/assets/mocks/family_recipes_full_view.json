@@ -1,0 +1,318 @@
+[
+    {
+      "id": 1,
+      "owner": "Dad",
+      "image": "https://d3o5sihylz93ps.cloudfront.net/wp-content/uploads/2020/01/15145107/14.jpg",
+      "title": "Israeli Shakshuka",
+      "servings": 4,
+      "FavoriteTime": "Breakfast",
+      "readyInMinutes": 30,
+      "aggregateLikes": 250,
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "summary": "Shakshuka is a delicious and hearty dish of poached eggs in a spicy tomato and pepper sauce.",
+      "instructions": [
+        "Heat olive oil in a large pan.",
+        "Add onions and bell peppers, sauté until soft.",
+        "Stir in garlic and spices, cook for another minute.",
+        "Add tomatoes and simmer until thickened.",
+        "Make wells in the sauce and crack eggs into them.",
+        "Cover and cook until eggs are done to your liking."
+      ],
+      "extendedIngredients": [
+        {
+          "id": 1003,
+          "aisle": "Produce",
+          "image": "tomatoes.jpg",
+          "consistency": "SOLID",
+          "originalName": "tomatoes",
+          "amount": 4.0,
+          "unit": "large",
+          "meta": [
+            "chopped",
+            "ripe"
+          ]
+        },
+        {
+          "id": 1004,
+          "aisle": "Spices and Seasonings",
+          "image": "cumin.jpg",
+          "consistency": "SOLID",
+          "originalName": "cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "meta": []
+        },
+        {
+          "id": 1009,
+          "aisle": "Produce",
+          "image": "bell-pepper.jpg",
+          "consistency": "SOLID",
+          "originalName": "bell peppers",
+          "amount": 2.0,
+          "unit": "medium",
+          "meta": [
+            "chopped"
+          ]
+        },
+        {
+          "id": 1010,
+          "aisle": "Spices and Seasonings",
+          "image": "paprika.jpg",
+          "consistency": "SOLID",
+          "originalName": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "meta": []
+        },
+        {
+          "id": 1011,
+          "aisle": "Dairy",
+          "image": "eggs.jpg",
+          "consistency": "SOLID",
+          "originalName": "eggs",
+          "amount": 4.0,
+          "unit": "",
+          "meta": []
+        },
+        {
+          "id": 1012,
+          "aisle": "Condiments",
+          "image": "olive-oil.jpg",
+          "consistency": "LIQUID",
+          "originalName": "olive oil",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "meta": []
+        },
+        {
+          "id": 1013,
+          "aisle": "Produce",
+          "image": "garlic.jpg",
+          "consistency": "SOLID",
+          "originalName": "garlic cloves",
+          "amount": 3.0,
+          "unit": "cloves",
+          "meta": [
+            "minced"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "owner": "Grandma",
+      "image": "https://www.krutit.co.il/wp-content/uploads/2018/10/DSC_5181-764x512.jpg",
+      "title": "Grandma's Chicken Soup",
+      "servings": 6,
+      "FavoriteTime": "Winter",
+      "readyInMinutes": 120,
+      "aggregateLikes": 300,
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "summary": "This comforting chicken soup is perfect for cold days and a great way to boost your immune system.",
+      "instructions": [
+        "Place chicken in a large pot with water and bring to a boil.",
+        "Add carrots, celery, and onions to the pot.",
+        "Simmer for 2 hours, skimming off any foam.",
+        "Season with salt and pepper to taste.",
+        "Remove chicken, shred the meat, and return to the pot.",
+        "Serve hot with noodles or rice."
+      ],
+      "extendedIngredients": [
+        {
+          "id": 1005,
+          "aisle": "Meat",
+          "image": "chicken.jpg",
+          "consistency": "SOLID",
+          "originalName": "whole chicken",
+          "amount": 1.0,
+          "unit": "whole",
+          "meta": [
+            "skin removed",
+            "cut into pieces"
+          ]
+        },
+        {
+          "id": 1006,
+          "aisle": "Produce",
+          "image": "carrot.jpg",
+          "consistency": "SOLID",
+          "originalName": "carrots",
+          "amount": 3.0,
+          "unit": "large",
+          "meta": [
+            "peeled",
+            "chopped"
+          ]
+        },
+        {
+          "id": 1014,
+          "aisle": "Produce",
+          "image": "celery.jpg",
+          "consistency": "SOLID",
+          "originalName": "celery",
+          "amount": 2.0,
+          "unit": "stalks",
+          "meta": [
+            "chopped"
+          ]
+        },
+        {
+          "id": 1015,
+          "aisle": "Produce",
+          "image": "onion.jpg",
+          "consistency": "SOLID",
+          "originalName": "onions",
+          "amount": 2.0,
+          "unit": "medium",
+          "meta": [
+            "chopped"
+          ]
+        },
+        {
+          "id": 1016,
+          "aisle": "Pantry",
+          "image": "salt.jpg",
+          "consistency": "SOLID",
+          "originalName": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "meta": []
+        },
+        {
+          "id": 1017,
+          "aisle": "Pantry",
+          "image": "black-pepper.jpg",
+          "consistency": "SOLID",
+          "originalName": "black pepper",
+          "amount": 0.5,
+          "unit": "tsp",
+          "meta": [
+            "ground"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "owner": "Auntie",
+      "image": "https://d3o5sihylz93ps.cloudfront.net/wp-content/uploads/sites/2/2019/05/07142538/homeubuntureleasesrelease_20190505071537webappmu-pluginsfoody-white-labeltmp1557228338-nQcsiQ.jpg",
+      "title": "Auntie's Chocolate Cake",
+      "servings": 8,
+      "FavoriteTime": "Birthday",
+      "readyInMinutes": 90,
+      "aggregateLikes": 400,
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": false,
+      "summary": "A rich and moist chocolate cake that is perfect for celebrations.",
+      "instructions": [
+        "Preheat oven to 350°F (175°C).",
+        "Grease and flour two 9-inch round baking pans.",
+        "In a large bowl, mix together flour, sugar, cocoa, baking powder, and salt.",
+        "Add eggs, milk, oil, and vanilla, and beat until smooth.",
+        "Pour batter into prepared pans and bake for 30-35 minutes.",
+        "Cool on wire racks before frosting."
+      ],
+      "extendedIngredients": [
+        {
+          "id": 1007,
+          "aisle": "Baking",
+          "image": "flour.jpg",
+          "consistency": "SOLID",
+          "originalName": "flour",
+          "amount": 2.5,
+          "unit": "cups",
+          "meta": [
+            "all-purpose"
+          ]
+        },
+        {
+          "id": 1008,
+          "aisle": "Baking",
+          "image": "cocoa.jpg",
+          "consistency": "SOLID",
+          "originalName": "cocoa powder",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [
+            "unsweetened"
+          ]
+        },
+        {
+          "id": 1018,
+          "aisle": "Baking",
+          "image": "sugar.jpg",
+          "consistency": "SOLID",
+          "originalName": "sugar",
+          "amount": 2.0,
+          "unit": "cups",
+          "meta": []
+        },
+        {
+          "id": 1019,
+          "aisle": "Dairy",
+          "image": "milk.jpg",
+          "consistency": "LIQUID",
+          "originalName": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": []
+        },
+        {
+          "id": 1020,
+          "aisle": "Baking",
+          "image": "baking-powder.jpg",
+          "consistency": "SOLID",
+          "originalName": "baking powder",
+          "amount": 1.5,
+          "unit": "tsp",
+          "meta": []
+        },
+        {
+          "id": 1021,
+          "aisle": "Spices and Seasonings",
+          "image": "salt.jpg",
+          "consistency": "SOLID",
+          "originalName": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "meta": []
+        },
+        {
+          "id": 1022,
+          "aisle": "Dairy",
+          "image": "eggs.jpg",
+          "consistency": "SOLID",
+          "originalName": "eggs",
+          "amount": 2.0,
+          "unit": "",
+          "meta": []
+        },
+        {
+          "id": 1023,
+          "aisle": "Pantry",
+          "image": "oil.jpg",
+          "consistency": "LIQUID",
+          "originalName": "vegetable oil",
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": []
+        },
+        {
+          "id": 1024,
+          "aisle": "Baking",
+          "image": "vanilla.jpg",
+          "consistency": "LIQUID",
+          "originalName": "vanilla extract",
+          "amount": 2.0,
+          "unit": "tsp",
+          "meta": []
+        }
+      ]
+    }
+  ]
+  
